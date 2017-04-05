@@ -1,4 +1,4 @@
-package br.fatec.topic1;
+package br.fatec.view;
 
 public class ProdutoComprado {
 	
@@ -10,7 +10,7 @@ public class ProdutoComprado {
 	private String frete;
 	private String impostos;
 	private String estadoDestinoPedido;
-	String precoFinal; 					// atributo package
+	String precoFinal; 		// atributo package
 
 	public String getId() {
 		return id;

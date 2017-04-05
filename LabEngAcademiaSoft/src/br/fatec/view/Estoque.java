@@ -1,4 +1,4 @@
-package br.fatec.topic1;
+package br.fatec.view;
 
 import java.util.List;
 
