@@ -1,5 +1,8 @@
 package br.fatec.topic1;
 
-public class test {
+public class Categoria {
+	
+	private String id;
+	private String nome;
 	
 }
