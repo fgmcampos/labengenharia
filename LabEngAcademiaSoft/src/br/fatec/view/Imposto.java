@@ -17,7 +17,6 @@ public abstract class Imposto {
 	protected Imposto nomeImposto;
 	protected Imposto valorImposto;
 
-
 	public Imposto getNomeImposto() {
 		return nomeImposto;
 	}
